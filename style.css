@@ -1,0 +1,22 @@
+/* reset navegador */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+
+
+body {
+    background-color: rgba(10, 10, 10, 0.527);
+
+}
+
+h2 {
+    font-size: 45px;
+    color: rgb(14, 34, 211);
+
+}
+
+p {
+    color: red;
+}
