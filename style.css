@@ -7,16 +7,35 @@
 
 
 body {
-    background-color: rgba(10, 10, 10, 0.527);
+    background-color: whitesmoke;
 
+}
+h1 {
+    font-size: 70px;
+    color: teal;
+    text-align: center  ;   
 }
 
 h2 {
-    font-size: 45px;
-    color: rgb(14, 34, 211);
+    font-size: 55px;
+    color: rgb(83, 199, 164);
+    margin: 20px;
+    text-align: center;
 
 }
 
 p {
-    color: red;
+    color: rgb(7, 7, 7);
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: rgb(83, 199, 164);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
